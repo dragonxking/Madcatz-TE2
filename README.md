@@ -1,4 +1,4 @@
-# Madcatz TE2 Plus control panel AutoCad 
+# Madcatz TE2+ Replacement Panel AutoCad Layout
 
 ## 简介
 美加狮 TE2+ 街机摇杆面板图纸, 文件：madCatz_TE2Plus_control_panel.dwg
